@@ -4,7 +4,7 @@
 http://dearlittleglowy
 
 ## Color Palette
-https://coolors.co/5aa9e6-7fc8f8-f9f9f9-ffe45e-ffca0a
+https://coolors.co/5aa9e6-7fc8f8-f9f9f9-ffe45e-ffca0a <br />
 https://coolors.co/ff69b4-ffb3de-fcf6bd-ffef00-ffd300
 
 ## Banner Image
