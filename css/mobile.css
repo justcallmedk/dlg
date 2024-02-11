@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+  .header1 {
+    font-size: 42px;
+  }
+  .header2 {
+    font-size: 26px;
+  }
+}
